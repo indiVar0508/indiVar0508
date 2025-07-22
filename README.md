@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python & golang
 - 👯 I’m looking to collaborate / participate on volunteering events.
 - 💬 Ask me about Python / Reinforcement learning
-- ✨ Fun fact: Neptune's moon, Triton, orbits the planet backwards. 
+- ✨ Fun fact: "73 is the 21st prime number . Its mirror, 37, is the 12th and its mirror, 21, is the product of multiplying 7 and 3, and in binary 73 is a palindrome, 1001001, which backwards is 1001001." if you caught that reference we are good friends !
 <!--
 **indiVar0508/indiVar0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
