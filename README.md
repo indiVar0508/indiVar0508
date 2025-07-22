@@ -1,8 +1,8 @@
 ## Hi there, I am Indivar 👋
 
-- 🔭 I’m currently working as Software Engineer @ JPMC
-- 🌱 Upcoming Fall'25 Graduate for MSAI @ UT Austin
-- 👯 I’m looking to collaborate on volunteering events.
+- 🔭 I’m currently working as Software Engineer
+- 🌱 I’m currently learning Python & golang
+- 👯 I’m looking to collaborate / participate on volunteering events.
 - 💬 Ask me about Python / Reinforcement learning
 - ✨ Fun fact: Neptune's moon, Triton, orbits the planet backwards. 
 <!--
